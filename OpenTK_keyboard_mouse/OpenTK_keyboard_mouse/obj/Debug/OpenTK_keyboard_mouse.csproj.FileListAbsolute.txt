@@ -1,0 +1,22 @@
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.exe.config
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.exe
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.pdb
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.dll
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.pdb
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.xml
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_k.0DE6ED9A.Up2Date
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.exe
+C:\Users\Asus\OneDrive\Desktop\EGC\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.pdb
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.exe.config
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.exe
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK_keyboard_mouse.pdb
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.dll
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.pdb
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\bin\Debug\OpenTK.xml
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_k.0DE6ED9A.Up2Date
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.exe
+C:\Users\Asus\OneDrive\Desktop\Test Git\CiobanuG_temaCLI\OpenTK_keyboard_mouse\OpenTK_keyboard_mouse\obj\Debug\OpenTK_keyboard_mouse.pdb
