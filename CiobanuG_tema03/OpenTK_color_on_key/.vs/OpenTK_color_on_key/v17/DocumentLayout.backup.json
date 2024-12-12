@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\OpenTK_color_on_key\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema03\\OpenTK_color_on_key\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{598469E1-0BF4-4678-BE43-3B96979CCE52}|OpenTK_color_on_key\\OpenTK_color_on_key.csproj|c:\\users\\asus\\source\\repos\\opentk_color_on_key\\opentk_color_on_key\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{598469E1-0BF4-4678-BE43-3B96979CCE52}|OpenTK_color_on_key\\OpenTK_color_on_key.csproj|c:\\users\\asus\\onedrive\\desktop\\test git\\ciobanug_temacli\\ciobanug_tema03\\opentk_color_on_key\\opentk_color_on_key\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{598469E1-0BF4-4678-BE43-3B96979CCE52}|OpenTK_color_on_key\\OpenTK_color_on_key.csproj|solutionrelative:opentk_color_on_key\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\OpenTK_color_on_key\\OpenTK_color_on_key\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema03\\OpenTK_color_on_key\\OpenTK_color_on_key\\Program.cs",
               "RelativeDocumentMoniker": "OpenTK_color_on_key\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\OpenTK_color_on_key\\OpenTK_color_on_key\\Program.cs*",
-              "RelativeToolTip": "OpenTK_color_on_key\\Program.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAuwFUAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema03\\OpenTK_color_on_key\\OpenTK_color_on_key\\Program.cs",
+              "RelativeToolTip": "OpenTK_color_on_key\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T12:31:06.872Z",
               "EditorCaption": ""

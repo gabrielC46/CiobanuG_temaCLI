@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|c:\\users\\asus\\onedrive\\desktop\\test git\\ciobanug_temacli\\ciobanug_tema04\\opentk_tema04\\camera3disometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|c:\\users\\asus\\onedrive\\desktop\\test git\\ciobanug_temacli\\ciobanug_tema04\\opentk_tema04\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\camera3disometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:camera3disometric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:axes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E22D28EB-DB27-4F50-AA73-E7C2ACA352A3}|OpenTk_tema04.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,84 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Objectoid.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Objectoid.cs",
-              "RelativeDocumentMoniker": "Objectoid.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Objectoid.cs",
-              "RelativeToolTip": "Objectoid.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCoAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:26:01.015Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Grid.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Grid.cs",
-              "RelativeDocumentMoniker": "Grid.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Grid.cs",
-              "RelativeToolTip": "Grid.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T14:00:26.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window3D.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Window3D.cs",
-              "RelativeDocumentMoniker": "Window3D.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Window3D.cs",
-              "RelativeToolTip": "Window3D.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:44:25.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Randomizer.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Randomizer.cs",
-              "RelativeDocumentMoniker": "Randomizer.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Randomizer.cs",
-              "RelativeToolTip": "Randomizer.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:43:47.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Camera3DIsometric.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Camera3DIsometric.cs",
-              "RelativeDocumentMoniker": "Camera3DIsometric.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Camera3DIsometric.cs",
-              "RelativeToolTip": "Camera3DIsometric.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:43:15.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Axes.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Axes.cs",
-              "RelativeDocumentMoniker": "Axes.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Axes.cs",
-              "RelativeToolTip": "Axes.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAswCQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:42:34.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -123,7 +50,81 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:28:07.829Z"
+              "WhenOpened": "2024-11-10T11:03:15.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Objectoid.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Objectoid.cs",
+              "RelativeDocumentMoniker": "Objectoid.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Objectoid.cs",
+              "RelativeToolTip": "Objectoid.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:26:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Grid.cs",
+              "RelativeDocumentMoniker": "Grid.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Grid.cs",
+              "RelativeToolTip": "Grid.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:00:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window3D.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Window3D.cs",
+              "RelativeDocumentMoniker": "Window3D.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Window3D.cs",
+              "RelativeToolTip": "Window3D.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAADwv7IAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:44:25.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Randomizer.cs",
+              "RelativeDocumentMoniker": "Randomizer.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Randomizer.cs",
+              "RelativeToolTip": "Randomizer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:43:47.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camera3DIsometric.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Camera3DIsometric.cs",
+              "RelativeDocumentMoniker": "Camera3DIsometric.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Camera3DIsometric.cs",
+              "RelativeToolTip": "Camera3DIsometric.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:03:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Axes.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Axes.cs",
+              "RelativeDocumentMoniker": "Axes.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\Test Git\\CiobanuG_temaCLI\\CiobanuG_tema04\\OpenTk_tema04\\Axes.cs",
+              "RelativeToolTip": "Axes.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:03:11.794Z",
+              "EditorCaption": ""
             }
           ]
         }
